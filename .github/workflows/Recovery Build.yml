@@ -168,4 +168,4 @@ jobs:
           Device: ${{ github.event.inputs.DEVICE_NAME }}
           Target: ${{ github.event.inputs.BUILD_TARGET }}.img
       env:
-        GITHUB_TOKEN: ${{ secrets.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 }}
+        GITHUB_TOKEN: ${{ se}}
